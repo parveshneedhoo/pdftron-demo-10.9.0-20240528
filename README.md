@@ -34,8 +34,8 @@ Before you begin, make sure your development environment includes [Node.js](http
 ## Install
 
 ```
-git clone https://github.com/PDFTron/webviewer-angular-sample.git
-cd webviewer-angular-sample
+git clone https://github.com/parveshneedhoo/pdftron-demo-10.5.1-.git
+cd pdftron-demo-10.5.1-
 npm install
 ```
 
